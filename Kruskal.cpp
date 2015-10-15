@@ -21,6 +21,7 @@ typedef vector<ll> vi;
 typedef vector<pii> vpii;
 #define SZ 100005
 ll a[SZ];
+
 // Start of DSU
 
 //Cycle find Algorithm
